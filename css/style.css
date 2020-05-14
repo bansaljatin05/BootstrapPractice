@@ -25,6 +25,14 @@
     margin: 0px;
     color: #0f0f0f;
 }
-a:hover{
-    text-decoration: none;
+body {
+    padding: 50px 0px 0px 0px;
+    z-index: 0;
+}
+.navbar-dark {
+
+    background-color: #512da8;
+}
+.nav-link {
+    color: black;
 }
