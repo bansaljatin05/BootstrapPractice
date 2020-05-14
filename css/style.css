@@ -33,6 +33,9 @@ body {
 
     background-color: #512da8;
 }
+.nav-item .active {
+    color: white;
+}
 .nav-link {
     color: black;
 }
