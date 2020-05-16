@@ -40,3 +40,12 @@ body {
     padding: 10px;
 
 }
+#reservebtn {
+    background-color: #9575cd;
+    border: 1px solid white;
+    font-style: bold;
+}
+#reservebtn:hover {
+    background-color: white;
+    color: black;
+}
