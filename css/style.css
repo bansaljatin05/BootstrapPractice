@@ -28,6 +28,7 @@
 body {
     padding: 50px 0px 0px 0px;
     z-index: 0;
+    font-family: 'Nunito', sans-serif;
 }
 .navbar-dark {
 
@@ -42,10 +43,13 @@ body {
 }
 #reservebtn {
     background-color: #9575cd;
-    border: 1px solid white;
-    font-style: bold;
+    border: 1px solid #ddd;
+    border-radius: 0px;
 }
 #reservebtn:hover {
     background-color: white;
     color: black;
+}
+.navbar-text {
+    cursor: pointer;
 }
